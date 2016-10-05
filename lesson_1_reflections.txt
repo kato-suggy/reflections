@@ -1,0 +1,31 @@
+How did viewing a diff between two versions of a file help spot the bug?
+
+Only the lines of the two files which differed from each other were shown, so there was less text to look through.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+You would be able to go back to a previous point in development if you felt that you had taken a wrong track.
+You would be able to use some previous version as a basis for some other program you want to write.
+You could go back version by version to see where you went wrong.
+You could look over the history to see how your program developed and use it as inspiration for the design of future programs, so you might not have to go through so many steps to get the functionality you want.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Pros: Control. Versions are saved at points that make sense. Not too  many versions are saved. 
+Cons: Have to remember to commit, and make good judgements.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Git is specifically for code, where it's often preferable to save that way. Google Docs is more generic and you wouldn't want that feature for most types of projects you would use it for.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log shows the list of versions. You can use git diff to compare versions with each other, using their IDs as parameters.
+
+How might using version control make you more confident to make changes that could break something?
+
+Because the version before you changed it is always saved and you can easily find and go back to it if you break something.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I'm going to take a course on JavaScript that uses it.
