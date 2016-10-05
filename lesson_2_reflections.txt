@@ -5,3 +5,8 @@ A .git file is created which contains the metadata that tracks changes in the re
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It's in between. Files in the staging area have been picked from the working directory but not committed into the repository yet.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can add more than one logical change in the working directory, but if you add the files to the staging area and commit one by one, that separates out the changes into different commmits.
+
