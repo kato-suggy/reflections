@@ -10,3 +10,11 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 You can add more than one logical change in the working directory, but if you add the files to the staging area and commit one by one, that separates out the changes into different commmits.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If you want to create an alternative version of a program that can be developed in parallel to the original, eihter to experiment and merge later or to remain a separate version.
+
+How do the diagrams help you visualize the branch structure?
+
+It helps to draw it out to be able to see how the branches are related, where they separate from each other and what is unreachable.
+
