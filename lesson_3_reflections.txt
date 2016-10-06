@@ -16,4 +16,6 @@ What is the benefit of having a copy of the last known state of the remote store
 
 Because you might be about to get on a plane.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
+You would probably end up saving a bunch of files in the cloud, which would be harder to organise. It might be easier at first because it's more familiar, but you would likely have problems very soon.
