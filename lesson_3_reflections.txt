@@ -12,4 +12,8 @@ Forks: This copies a project on GitHub into your own repository, where you can w
 Clones: This copies a project from GitHub to your computer, or from your computer to another location on your computer. Maybe you want to clone from GitHub and then commit your changes to the same repository.
 Branch: This is when you are working on your local repository and want to try something out to be merged later, or start developing a different version of a project.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Because you might be about to get on a plane.
+
 
